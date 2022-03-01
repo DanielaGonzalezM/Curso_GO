@@ -8,9 +8,10 @@ import (
 //go mod init paquetes
 import (
 	"fmt"
-	"paquetes/figuras"
+	//"paquetes/figuras"
 	"paquetes/models"
 
+	"github.com/DanielaGonzalezM/figuras"
 	"github.com/donvito/hellomod"
 )
 
