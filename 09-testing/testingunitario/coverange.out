@@ -1,0 +1,5 @@
+mode: set
+test/testingunitario/mate.go:3.25,5.2 1 1
+test/testingunitario/mate.go:6.27,7.11 1 1
+test/testingunitario/mate.go:10.2,10.10 1 1
+test/testingunitario/mate.go:7.11,9.3 1 1
